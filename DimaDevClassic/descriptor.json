@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "8efd14cd-6408-0977-376c-7d975db020d0",
+    "Name": "DimaDevClassic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1697461519000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DimaDevClassic.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
