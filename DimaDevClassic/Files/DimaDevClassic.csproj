@@ -379,6 +379,11 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
+		<Reference Include="CrtOrderContractMgmtApp">
+			<HintPath>$(RelativePkgFolderPath)/CrtOrderContractMgmtApp/$(StandalonePackageAssemblyPath)/CrtOrderContractMgmtApp.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
 		<Reference Include="CrtLeadOppMgmtApp">
 			<HintPath>$(RelativePkgFolderPath)/CrtLeadOppMgmtApp/$(StandalonePackageAssemblyPath)/CrtLeadOppMgmtApp.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
@@ -386,11 +391,6 @@
 		</Reference>
 		<Reference Include="CrtCaseService7x">
 			<HintPath>$(RelativePkgFolderPath)/CrtCaseService7x/$(StandalonePackageAssemblyPath)/CrtCaseService7x.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
-		<Reference Include="CrtOrderContractMgmtApp">
-			<HintPath>$(RelativePkgFolderPath)/CrtOrderContractMgmtApp/$(StandalonePackageAssemblyPath)/CrtOrderContractMgmtApp.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
@@ -456,6 +456,11 @@
 		</Reference>
 		<Reference Include="CrtOrderContractInC360">
 			<HintPath>$(RelativePkgFolderPath)/CrtOrderContractInC360/$(StandalonePackageAssemblyPath)/CrtOrderContractInC360.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="CSL_MaintenanceTools">
+			<HintPath>$(RelativePkgFolderPath)/CSL_MaintenanceTools/$(StandalonePackageAssemblyPath)/CSL_MaintenanceTools.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>

@@ -133,7 +133,15 @@
   "E17": "UsrCountryId",
   "E18": "UsrCountryName"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","3be4d466-d3cf-4c01-87bb-70b6be3efbc8","1fd3e48b-7a11-549a-291f-7d4733b1192a","22437a24-9e9b-02e2-9159-4a36577e7c0e","53db7612-2214-05d9-c831-5b95838f29ec","fbeac3de-5829-b17e-e28d-55ea063f785f","dacc2c0d-bf08-f466-624b-6930d95227bb","6e7ed9cd-2b3a-bfe5-a0a9-90a5bcaf0b29","b48de2e8-e2ba-7aa6-0ba8-44bcc1bf16b7","58d1b9ea-1663-446b-b0be-621e1b3c7f64"]
++ MetaData.Schema.D2 {
+  "UId": "b41809fa-8303-6ba9-a874-2c71e615b04b",
+  "A2": "UsrCommissionUSD",
+  "A3": "03237435-1616-4330-81c0-85eb54f87fed",
+  "A4": "03237435-1616-4330-81c0-85eb54f87fed",
+  "A5": "15b617c3-e473-4cbd-82ea-9a014ae25fb3",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","3be4d466-d3cf-4c01-87bb-70b6be3efbc8","1fd3e48b-7a11-549a-291f-7d4733b1192a","22437a24-9e9b-02e2-9159-4a36577e7c0e","53db7612-2214-05d9-c831-5b95838f29ec","fbeac3de-5829-b17e-e28d-55ea063f785f","dacc2c0d-bf08-f466-624b-6930d95227bb","6e7ed9cd-2b3a-bfe5-a0a9-90a5bcaf0b29","b48de2e8-e2ba-7aa6-0ba8-44bcc1bf16b7","58d1b9ea-1663-446b-b0be-621e1b3c7f64","b41809fa-8303-6ba9-a874-2c71e615b04b"]
 = MetaData.Schema.D20.A2 "UsrRealtyFreedomUIEvents"
 = MetaData.Schema.D36.A3 "03237435-1616-4330-81c0-85eb54f87fed"
 = MetaData.Schema.D36.BS1 false

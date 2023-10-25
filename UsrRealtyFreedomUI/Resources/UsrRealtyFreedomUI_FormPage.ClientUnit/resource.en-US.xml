@@ -8,7 +8,9 @@
 			<Item Name="LocalizableStrings.addRecord_ldoynn8_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_vu0x9sd_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_ymhip0x_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 10 m2" />
 			<Item Name="LocalizableStrings.Button_124cbar_caption.Value" Value="ПЫЩЬ!" />
+			<Item Name="LocalizableStrings.Button_fc25jdq_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.ExpansionPanel_k3hux43_title.Value" Value="Просмотр недвижимости (FreedomUI)" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_bpyvyc1_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.GridDetailExportDataBtn_kwq5qbl_caption.Value" Value="Экспорт в Excel" />
@@ -16,6 +18,9 @@
 			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ote9j3c_caption.Value" Value="Обновить" />
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_3j45vnv_placeholder.Value" Value="Поиск" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_3tsc4dq_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_gncwxey_caption.Value" Value="Расчет средней цены" />
+			<Item Name="LocalizableStrings.NumberInput_qxb4wrd_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
 		</Items>
 	</Group>
 </Resources>
