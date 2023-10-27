@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "58bd6c13-3769-4c18-ac14-d7d88688f61b",
     "Name": "UsrRealtyClassic1Page",
-    "ModifiedOnUtc": "\/Date(1698150547000)\/",
+    "ModifiedOnUtc": "\/Date(1698326550000)\/",
     "Parent": {
       "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
       "Name": "BaseModulePageV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Страница редактирования: \"Недвижимость (ClassicUI)\""
+    "Caption": "Страница редактирования: \"Недвижимость (ClassicUI)\"",
+    "DependsOn": []
   }
 }

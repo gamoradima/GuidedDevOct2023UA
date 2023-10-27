@@ -19,6 +19,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_3j45vnv_placeholder.Value" Value="Поиск" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_3tsc4dq_caption.Value" Value="Действия" />
 			<Item Name="LocalizableStrings.MenuItem_gncwxey_caption.Value" Value="Расчет средней цены" />
+			<Item Name="LocalizableStrings.MenuItem_mm9vkb2_caption.Value" Value="Расчет суммы цен" />
 			<Item Name="LocalizableStrings.NumberInput_qxb4wrd_label.Value" Value="Число" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
 		</Items>

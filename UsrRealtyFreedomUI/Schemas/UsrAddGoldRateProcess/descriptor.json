@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "53790085-8415-45c1-bdbb-a4c1b52d9137",
+    "Name": "UsrAddGoldRateProcess",
+    "ModifiedOnUtc": "\/Date(1698412259000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Добавить цену золота",
+    "DependsOn": []
+  }
+}

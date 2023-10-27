@@ -8,6 +8,7 @@
       "Name": "PageWithTopAreaAndTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Страница вывода средней цены недвижимости"
+    "Caption": "Страница вывода средней цены недвижимости",
+    "DependsOn": []
   }
 }

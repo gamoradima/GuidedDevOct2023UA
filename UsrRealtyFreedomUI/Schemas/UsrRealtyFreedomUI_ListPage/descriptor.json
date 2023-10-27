@@ -8,6 +8,7 @@
       "Name": "ListFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Страница с реестром Недвижимость (FreedomUI)"
+    "Caption": "Недвижимость (FreedomUI) list page",
+    "DependsOn": []
   }
 }

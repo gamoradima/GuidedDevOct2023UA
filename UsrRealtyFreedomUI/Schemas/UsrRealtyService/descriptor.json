@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "01f69425-1aa6-48f9-ada3-4e1e12c80cfd",
+    "Name": "UsrRealtyService",
+    "ModifiedOnUtc": "\/Date(1698322266000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UsrRealtyService",
+    "DependsOn": []
+  }
+}

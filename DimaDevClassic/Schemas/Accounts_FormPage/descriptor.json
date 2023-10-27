@@ -9,6 +9,7 @@
     },
     "ExtendParent": true,
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Страница записи Контрагенты"
+    "Caption": "Accounts form page",
+    "DependsOn": []
   }
 }
